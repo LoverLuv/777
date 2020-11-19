@@ -1,0 +1,26 @@
+// css libs
+
+@import "../css/reset.css";
+
+// basic-style
+
+@import "basic-style/var.scss";
+@import "basic-style/basic-settings.scss";
+
+// duplicate-blocks
+
+@import "duplicate-blocks/button.scss";
+@import "duplicate-blocks/link.scss";
+@import "duplicate-blocks/line.scss";
+@import "duplicate-blocks/animation-up-hover.scss";
+
+// sectional-blocks
+
+@import "sectional-blocks/main.scss";
+@import "sectional-blocks/services.scss";
+@import "sectional-blocks/dev-standard.scss";
+@import "sectional-blocks/our-work.scss";
+@import "sectional-blocks/our-projects.scss";
+@import "sectional-blocks/block-video.scss";
+@import "sectional-blocks/feedback.scss";
+@import "sectional-blocks/footer.scss";

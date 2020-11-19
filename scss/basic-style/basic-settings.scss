@@ -1,0 +1,62 @@
+.container {
+    max-width: 1130px;
+    margin: 0 auto;
+    padding: 0px 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    
+    color: $c1;  
+}
+
+h2 {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 53px;
+    
+    color: #323232;
+}
+
+h3 {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+
+p {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: $c3;  
+}
+
+body {
+    overflow-x: hidden;
+    background-color: $c2;
+}
+
+.h2--white-color {
+    color: $c1;
+}
+
+.h3--white-color {
+    color: $c1;
+}
+
+.p--white-color {
+    color: $c1;
+}

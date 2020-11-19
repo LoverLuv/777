@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* line 1, E:/Документы/Вёрстка [1 из 2]/BEM + SASS/scss/duplicate-blocks/animation-up-hover.scss */
+.animation-up-hover:hover, .animation-up-hover:focus {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  transition: all 0.2s; }
+/*# sourceMappingURL=animation-up-hover.css.map */

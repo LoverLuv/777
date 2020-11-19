@@ -1,0 +1,26 @@
+// block
+
+.button {
+    padding: 15px 35px;
+    background: $c4;
+    box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    border-radius: 30px;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    display: inline-block;
+    color: $c1;  
+    transition: all 0.2s;
+}
+
+// modifier
+
+.button--hover:hover, .button--hover:focus {
+    background: #296FFF;
+}
+
+.button--click:active {
+    background: #0054FF;
+}
